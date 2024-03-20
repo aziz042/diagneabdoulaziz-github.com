@@ -1,0 +1,273 @@
+ body,
+h1,
+h2,
+ul,
+li 
+ body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: darkred;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: burlywood;
+}
+
+header {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: #333;
+  color: black;
+  padding: 20px;
+}
+ 
+
+header h1 {
+  margin-bottom: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  background-color: none;
+}
+
+
+.video-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+#video-bg {
+  width: 100%;
+}
+
+#content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+}
+
+.custom-card {
+  width: 400px;
+  margin: 5px;
+  padding: 8px;
+  background-color:burlywood;
+  border-radius: 5%;
+}
+
+.custom-card .card-img-top {
+  width: 400px;
+  height: 200px;
+  object-fit:cover;
+}
+
+.d-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+footer {
+  background-color:  white;
+  color: #000000;
+  padding: 20px;
+  text-align: center;
+}
+
+.B {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+h5 {
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input, textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 5px;
+}
+
+input, textarea {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+
+
+.photos {
+  display: flex;
+  flex-wrap: wrap;
+  transition: transform 0.3 ease;
+}
+
+.photos img {
+  width: 200px;
+  height: 150px;
+  margin: 5px;
+}
+
+B.videos  {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.videos video {
+  width: 300px;
+  height: 300px;
+  margin: 4px;
+}
+
+
+
+
+
+
+#monde{
+    display:flexbox;
+    width: 100%;
+    margin-right: 30%;
+    margin: left 80px;
+}
+#t{ margin-block-end: 50%;
+    color: black;
+    text-align-last: auto;
+}
+#te{
+    margin: top 10px;
+    background-color: crimson;
+    margin-left: left;
+    
+}
+#tea{
+    margin-left: 10px;
+    margin-top: 10px;
+    color: black;
+    background-color: darkblue;
+}
+
+#lol{
+ 
+    
+    display: flex;
+    width: 100%;
+    margin-top: 15%;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+     
+        .image-container {
+            text-align: center;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .text-container {
+            margin-top: 20px;
+            text-align: center;
+        }
+        button {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+
+
+
+
+
+
